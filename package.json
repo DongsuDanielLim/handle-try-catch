@@ -1,0 +1,38 @@
+{
+  "version": "10.15.1",
+  "description": "Module wrapping async handler function with try catch",
+  "keywords": [
+    "handler",
+    "middleware",
+    "function",
+    "async",
+    "wrap",
+    "await",
+    "error",
+    "try",
+    "catch"
+  ],
+  "homepage": "https://github.com/DongsuDanielLim/mask-handler",
+  "bugs": "https://github.com/DongsuDanielLim/mask-handler/issues",
+  "email": "syaoran8104@gmail.com",
+  "license": "MIT",
+  "author": {
+    "name": "DongsuDanielLim",
+    "email": "syaoran8104@gmail.com",
+    "url": "https://github.com/DongsuDanielLim"
+  },
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DongsuDanielLim/mask-handler.git"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "!dist/test"
+  ],
+  "engines": {
+    "node": ">=10.15.1",
+    "npm": "6.13.4"
+  }
+}
