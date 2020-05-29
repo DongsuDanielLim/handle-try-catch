@@ -1,4 +1,5 @@
 {
+  "name": "mask-handler",
   "version": "10.15.1",
   "description": "Module wrapping async handler function with try catch",
   "keywords": [
