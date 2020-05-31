@@ -1,5 +1,5 @@
 {
-  "name": "try-catch-wrapper",
+  "name": "handle-try-catch",
   "version": "10.15.1",
   "description": "Module wrapping async handler function with try catch",
   "keywords": [
@@ -13,8 +13,8 @@
     "try",
     "catch"
   ],
-  "homepage": "https://github.com/DongsuDanielLim/try-catch-wrapper",
-  "bugs": "https://github.com/DongsuDanielLim/try-catch-wrapper/issues",
+  "homepage": "https://github.com/DongsuDanielLim/handle-try-catch",
+  "bugs": "https://github.com/DongsuDanielLim/handle-try-catch/issues",
   "email": "syaoran8104@gmail.com",
   "license": "MIT",
   "author": {
@@ -25,7 +25,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DongsuDanielLim/try-catch-wrapper.git"
+    "url": "https://github.com/DongsuDanielLim/handle-try-catch.git"
   },
   "files": [
     "dist",
