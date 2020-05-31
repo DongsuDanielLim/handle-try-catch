@@ -1,12 +1,12 @@
 ### Install
 
 ```
-npm install mask-handler
+npm install try-catch-wrapper
 ```
 
 ### Example
 ```
-const wrap = require('mask-handler')
+const wrap = require('try-catch-wrapper')
 router.get('/', wrap(async (req, res, next) => {
   ...do somthing
   // next()

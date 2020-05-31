@@ -1,5 +1,5 @@
 {
-  "name": "mask-handler",
+  "name": "try-catch-wrapper",
   "version": "10.15.1",
   "description": "Module wrapping async handler function with try catch",
   "keywords": [
@@ -13,8 +13,8 @@
     "try",
     "catch"
   ],
-  "homepage": "https://github.com/DongsuDanielLim/mask-handler",
-  "bugs": "https://github.com/DongsuDanielLim/mask-handler/issues",
+  "homepage": "https://github.com/DongsuDanielLim/try-catch-wrapper",
+  "bugs": "https://github.com/DongsuDanielLim/try-catch-wrapper/issues",
   "email": "syaoran8104@gmail.com",
   "license": "MIT",
   "author": {
@@ -25,7 +25,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DongsuDanielLim/mask-handler.git"
+    "url": "https://github.com/DongsuDanielLim/try-catch-wrapper.git"
   },
   "files": [
     "dist",
