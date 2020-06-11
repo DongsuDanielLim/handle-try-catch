@@ -1,12 +1,12 @@
 ### Install
 
 ```
-npm install try-catch-wrapper
+npm install handle-try-catch --save
 ```
 
 ### Example
 ```
-const wrap = require('try-catch-wrapper')
+const wrap = require('handle-try-catch')
 router.get('/', wrap(async (req, res, next) => {
   ...do somthing
   // next()
