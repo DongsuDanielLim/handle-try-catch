@@ -1,6 +1,6 @@
 {
   "name": "handle-try-catch",
-  "version": "10.15.1",
+  "version": "0.1.2",
   "description": "Module wrapping async handler function with try catch",
   "keywords": [
     "handler",
